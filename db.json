@@ -1,9 +1,143 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "sinhVien": [
+    {
+      "maSV": "0650080002",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080003",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06",
+      "soHocPhanNo": "10"
+    },
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "tenNganh": "pham minh thien",
+      "tenLop": "CNTT_1",
+      "khoaHoc": "06"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "thongTinSV": [
+    {
+      "maSV": "0650080001",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080002",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080003",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080004",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080005",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080006",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    },
+    {
+      "maSV": "0650080007",
+      "tenSinhVien": "mai thanh dan",
+      "queQuan": "tp ben tre",
+      "diaChiThuongTru": "103/1f an thanh a, xa ...",
+      "noiSinh": "tpbentre",
+      "gioiTinh": "nam",
+      "soDienThoai": "113"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
